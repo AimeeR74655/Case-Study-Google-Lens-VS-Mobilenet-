@@ -1,0 +1,42 @@
+.heading
+{
+    width:100%;
+    font-family: cursive;
+    font-size: 35px;
+    color: red;
+}
+
+label
+{
+    font-size:18px;
+}
+
+#mobile_net
+{
+    font-size:18px;
+}
+
+.test_image_and_result
+{
+    background-color: grey;
+    border-radius: 20px;
+}
+
+#test_image
+{
+    color:white;
+}
+
+#output_GoogleLens, #output_MobileNet
+{
+ color:red;
+
+}
+
+h5
+{
+    color:purple;
+    background-color: white;
+    border-radius: 10px;
+    border-bottom:blue;
+}
